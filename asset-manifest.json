@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jagobisnisonline/static/css/main.7e3fba9a.css",
+    "main.js": "/jagobisnisonline/static/js/main.cc823d98.js",
+    "static/media/gallery-2.jpg": "/jagobisnisonline/static/media/gallery-2.5fe69cba93b5de46eab5.jpg",
+    "static/media/gallery-5.jpg": "/jagobisnisonline/static/media/gallery-5.01a9a270c0123c3d6057.jpg",
+    "static/media/gallery-6.jpg": "/jagobisnisonline/static/media/gallery-6.ff20f8b8ff7579e504df.jpg",
+    "static/media/heroo.png": "/jagobisnisonline/static/media/heroo.2a7d1bd8ff448b5b3cc6.png",
+    "static/media/gallery-3.jpg": "/jagobisnisonline/static/media/gallery-3.2d95c2525759201fe71d.jpg",
+    "static/media/gallery-4.jpg": "/jagobisnisonline/static/media/gallery-4.ed8a44feb945bf832791.jpg",
+    "static/media/gallery-1.jpg": "/jagobisnisonline/static/media/gallery-1.1c4345b461125c6a7bd2.jpg",
+    "index.html": "/jagobisnisonline/index.html",
+    "main.7e3fba9a.css.map": "/jagobisnisonline/static/css/main.7e3fba9a.css.map",
+    "main.cc823d98.js.map": "/jagobisnisonline/static/js/main.cc823d98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e3fba9a.css",
+    "static/js/main.cc823d98.js"
+  ]
+}
